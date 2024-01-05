@@ -22,6 +22,7 @@ mydb = mysql.connector.connect(
 sql = "select cid from top_video_info"
 
 mycursor = mydb.cursor()
+
 mycursor.execute(sql)
 res = mycursor.fetchall()
 
