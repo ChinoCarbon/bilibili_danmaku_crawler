@@ -11,7 +11,13 @@ bilibili弹幕爬虫
 自己爬b站分区top100，大概是20min爬了17w条的水平。
 
 ## 快速开始
-### 安装chrome driver
+### 安装chromedriver
+去https://chromedriver.chromium.org/downloads，找到符合你chrome版本的chromedriver。
+
+如果你发现你的chrome版本比最新的还要新，就把这个json文件下载下来，找到符合你版本的chromedriver
+
+https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json
+文件我放到了根目录。
 
 ### 安装依赖包
 
