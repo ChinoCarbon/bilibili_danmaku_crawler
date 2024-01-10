@@ -10,7 +10,7 @@ rank_api = 'https://api.bilibili.com/x/v1/dm/list.so?oid='
 # mydb = mysql.connector.connect(
 #     host="123.60.82.9",
 #     user="root",
-#     password="MyNewPass4!",
+#     password="114514",
 #     database="visualization"
 # )
 #
